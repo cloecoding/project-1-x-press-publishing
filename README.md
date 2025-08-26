@@ -138,4 +138,4 @@ Si todo está correctamente implementado, **todos los tests deberían pasar**.
 ---
 
 ## ✨ Autor
-**Diego Espinosa (Ghost)** – [Tu GitHub](https://github.com/cloecoding)
+**Diego Espinosa ** – (https://github.com/cloecoding)
